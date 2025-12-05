@@ -1,5 +1,6 @@
 
-# MINI-ATM-MANCHINE
+# MINI-ATM-machine
+
 
 Welcome to the Mini ATM Machine project! This lightweight console application simulates basic ATM banking transactions in C. Perfect for learning core programming concepts like input validation, conditional logic, and menu-driven interfaces, this project is your stepping stone towards building more advanced financial applications. Dive in and explore how a simple C program can replicate real-world banking operations with ease!
 
